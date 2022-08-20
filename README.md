@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SHaiderM16
-- 👀 I’m interested in Computer Science
+- 🖥️ I’m interested in Computer Science
 - 🌱 I’m currently learning programming using Python
-- 💞️ I’m looking to collaborate on projects suitable for high school students.
+- 🤖 I’m looking to collaborate on projects suitable for high school students.
 - 📫 How to reach me: haidermurtaza16@gmail.com
 
 <!---
