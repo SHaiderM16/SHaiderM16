@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **haidermurtaza16@gmail.com**
 
-- ⚡ Fun fact **I enjoy working with different teams to bring an event vision to life and love the buzz of a successful event**
+- ⚡ Fun fact **I get a thrill out of event planning and thrive on the teamwork needed to make everything run smoothly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
