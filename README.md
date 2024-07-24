@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haider</h1>
 <h3 align="center">I'm a Computer Science Undergraduate at FAST NUCES Karachi</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaiderm16" alt="shaiderm16" /></a> </p>
-
 - 🌱 I’m currently learning **data structures and assembly language**
 
 - 🤝 I’m looking for help with **initiating projects that enhance and broaden my skillset**
@@ -19,6 +17,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaiderm16&show_icons=true&locale=en&layout=compact" alt="shaiderm16" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaiderm16&show_icons=true&locale=en" alt="shaiderm16" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaiderm16&show_icons=true&locale=en&layout=compact" alt="shaiderm16" /></p>
