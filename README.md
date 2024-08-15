@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **haidermurtaza16@gmail.com**
 
-- ⚡ Fun fact **I get a thrill out of event planning and thrive on the teamwork needed to make everything run smoothly**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/haidercs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haidercs" height="30" width="40" /></a>
