@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **multithreading, operating systems concepts, and practical software development**
 
-- 💡 Passionate about building real-world projects using C, C++, Python, and concurrency tools
+- 💡 Passionate about building real-world projects using C++ and Python
 
 - 📫 How to reach me **haidermurtaza16@gmail.com**
 
