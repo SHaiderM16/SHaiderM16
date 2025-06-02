@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Haider</h1>
 <h3 align="center">I'm a Computer Science Undergraduate at FAST NUCES Karachi</h3>
 
-- 🌱 I’m currently learning **data structures and assembly language**
+- 🌱 I’m currently learning **multithreading, operating systems concepts, and practical software development**
 
-- 🤝 I’m looking for help with **initiating projects that enhance and broaden my skillset**
+- 💡 Passionate about building real-world projects using C, C++, Python, and concurrency tools
 
 - 📫 How to reach me **haidermurtaza16@gmail.com**
 
