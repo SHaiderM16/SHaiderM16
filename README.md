@@ -1,6 +1,6 @@
 # 👨‍💻 About Me:
 - 🎓 CS undergrad at FAST NUCES
-- 💻 Projects in C, C++, and Assembly
+- 💻 Projects in C++, C, and Assembly
 - 🔍 Exploring problem solving (DSA with C++) and full-stack web development
 
 
