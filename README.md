@@ -1,6 +1,6 @@
 # 👨‍💻 About Me:
 - 🎓 CS undergrad at FAST NUCES Karachi
-- 💻 Projects in C++, C, and Assembly
+- 💻 Building projects in C++, C, and Assembly
 - 🔍 Exploring problem solving (DSA with C++) and full-stack web development
 
 
